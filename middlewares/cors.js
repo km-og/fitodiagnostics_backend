@@ -4,6 +4,8 @@ const allowedCors = [
   "https://localhost:3000",
   "http://localhost:3001",
   "https://localhost:3001",
+  "http://fitodiagnostika.ru",
+  "https://fitodiagnostika.ru",
   // "http://km.og.nomoredomainsrocks.ru",
   // "https://km.og.nomoredomainsrocks.ru",
 ];
