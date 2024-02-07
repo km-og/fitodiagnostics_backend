@@ -25,8 +25,8 @@ app.post("/send-form", (req, res) => {
 
   const mess = {
     from: "<test_testovich2024@mail.ru>",
-    to: "mikniy@gmail.com",
-    // to: "fitodiagnostika@mail.ru",
+    // to: "mikniy@gmail.com",
+    to: "fitodiagnostika@mail.ru",
     subject: "Получена заявка с сайта",
     text: `Получена заявка с сайта https://fitodiagnostika.ru/ 
     

@@ -6,8 +6,6 @@ const allowedCors = [
   "https://localhost:3001",
   "http://fitodiagnostika.ru",
   "https://fitodiagnostika.ru",
-  // "http://km.og.nomoredomainsrocks.ru",
-  // "https://km.og.nomoredomainsrocks.ru",
 ];
 
 // eslint-disable-next-line consistent-return
